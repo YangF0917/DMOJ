@@ -1,6 +1,4 @@
 import java.util.*;
-
-
 public class WhereToBuildMyHouse {
 	public static void merge(ArrayList<Long> b) {
 		int counter = 1;
