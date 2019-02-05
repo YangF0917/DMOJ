@@ -1,6 +1,6 @@
 package Finished;
 import java.util.*;
-public class AnEarlyChristmasPresent {
+public class dmopc17c3p1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
