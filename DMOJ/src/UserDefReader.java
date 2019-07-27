@@ -17,7 +17,6 @@ public class UserDefReader
 			br = new BufferedReader(new
 					InputStreamReader(System.in)); 
 		} 
-
 		String next() 
 		{ 
 			while (st == null || !st.hasMoreElements()) 
