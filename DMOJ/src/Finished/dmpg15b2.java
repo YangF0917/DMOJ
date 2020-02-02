@@ -1,3 +1,4 @@
+package Finished;
 import java.util.*;
 public class dmpg15b2 {
 
@@ -8,10 +9,10 @@ public class dmpg15b2 {
 		int [] box = new int[3];
 		
 		for (int i = 0; i < 3; i++) {
-			bridge[i] = sc.nextInt();
+			box[i] = sc.nextInt();
 		}
 		for (int j = 0; j < 3; j++) {
-			box[j] = sc.nextInt();
+			bridge[j] = sc.nextInt();
 		}
 		Arrays.sort(bridge); Arrays.sort(box);
 		boolean fit = true;
